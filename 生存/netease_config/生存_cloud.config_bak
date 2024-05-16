@@ -1,0 +1,382 @@
+{
+  "Parts": {
+    "0": {
+      "Num": 0,
+      "Md5": "ac24867fce4158f09549467aeee18e79",
+      "Size": 51540240
+    },
+    "1": {
+      "Num": 1,
+      "Md5": "9e0b0dfe4ddfe2c0124880654c8596dc",
+      "Size": 55244705
+    },
+    "2": {
+      "Num": 2,
+      "Md5": "940cc6e298c0bcf26d56de9d48d20ad1",
+      "Size": 50253960
+    },
+    "3": {
+      "Num": 3,
+      "Md5": "c585766163e1e40ee629d683fe2fbfc3",
+      "Size": 64191529
+    }
+  },
+  "FileInfos": {
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c",
+      "Md5": "",
+      "Size": 0,
+      "LastWriteTime": 638511365131827949,
+      "Type": 3
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\level.dat": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\level.dat",
+      "Md5": "ea46539392ee95bc9fa52daf7eade36c",
+      "Size": 2657,
+      "LastWriteTime": 638511365131466148,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\level.dat_old": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\level.dat_old",
+      "Md5": "b886a5f510e3320f7a0570a2b3037a91",
+      "Size": 2657,
+      "LastWriteTime": 638511365096427613,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\levelname.txt": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\levelname.txt",
+      "Md5": "49d862d47cd2300328e683c98f637943",
+      "Size": 6,
+      "LastWriteTime": 638511365131848112,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\netease_world_behavior_packs.json": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\netease_world_behavior_packs.json",
+      "Md5": "f5bd57c383ba95f77ad910dd0200e081",
+      "Size": 6,
+      "LastWriteTime": 638511022337197700,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\netease_world_resource_packs.json": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\netease_world_resource_packs.json",
+      "Md5": "f5bd57c383ba95f77ad910dd0200e081",
+      "Size": 6,
+      "LastWriteTime": 638511022337187350,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\netease_wpflauncher_cpp.cppconfig": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\netease_wpflauncher_cpp.cppconfig",
+      "Md5": "86f30f120222dfb24dc2dbea871a9f31",
+      "Size": 5257,
+      "LastWriteTime": 638511022109320566,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\behavior_packs": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\behavior_packs",
+      "Md5": "",
+      "Size": 0,
+      "LastWriteTime": 638429025359229778,
+      "Type": 3
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db",
+      "Md5": "",
+      "Size": 0,
+      "LastWriteTime": 638511364822285929,
+      "Type": 3
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023701.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023701.ldb",
+      "Md5": "0499b1e22b6ac238a4a8087ab4e21aa5",
+      "Size": 2132910,
+      "LastWriteTime": 638506269823480137,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023702.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023702.ldb",
+      "Md5": "b984bd8c7abaa01da428d18277fe0d3a",
+      "Size": 2136457,
+      "LastWriteTime": 638506269833929548,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023703.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023703.ldb",
+      "Md5": "0b261214a9be6000aefcc984856d4176",
+      "Size": 2121071,
+      "LastWriteTime": 638506269844551173,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023704.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023704.ldb",
+      "Md5": "01939e0299efb85adc46e4a4277772ed",
+      "Size": 2111324,
+      "LastWriteTime": 638506269855138287,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023705.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023705.ldb",
+      "Md5": "6de4968bae696e3f727d993bb92fc4ae",
+      "Size": 2115165,
+      "LastWriteTime": 638506269864957064,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023706.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023706.ldb",
+      "Md5": "9b8e028d6cbf046b8e8848206ac25a67",
+      "Size": 2136293,
+      "LastWriteTime": 638506269875197274,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023707.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023707.ldb",
+      "Md5": "c63dbdaaba4589b6fe423af840568dac",
+      "Size": 2122423,
+      "LastWriteTime": 638506269884380871,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023708.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023708.ldb",
+      "Md5": "a8d966941e2674e1df1366aa8af3d4c7",
+      "Size": 2137433,
+      "LastWriteTime": 638506269893397365,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023794.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023794.ldb",
+      "Md5": "f37c23ac6768984b87f85e91e29da48d",
+      "Size": 3891,
+      "LastWriteTime": 638506281919444117,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023954.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023954.ldb",
+      "Md5": "47c8db72b9b85fda77ccdfdb680ccb60",
+      "Size": 2245,
+      "LastWriteTime": 638506340141130210,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023976.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\023976.ldb",
+      "Md5": "ba13b1e9e480f8182e7d12efcc513750",
+      "Size": 13932,
+      "LastWriteTime": 638511022717043259,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\024026.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\024026.ldb",
+      "Md5": "b96ad7992f7ffa3198c3fde376676cff",
+      "Size": 8444,
+      "LastWriteTime": 638511034480960283,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\024936.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\024936.ldb",
+      "Md5": "9149d179fd9e2eabd1ca2834e7a17590",
+      "Size": 89362,
+      "LastWriteTime": 638511329168296558,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025005.log": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025005.log",
+      "Md5": "40f6450fad7f5f6fa9094008b8acecd3",
+      "Size": 3337675,
+      "LastWriteTime": 638511365141367372,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025010.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025010.ldb",
+      "Md5": "4466a886933010636c4ba04e266b2464",
+      "Size": 282,
+      "LastWriteTime": 638511362137431401,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025011.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025011.ldb",
+      "Md5": "cb3becc01bdaa32cd04cf11b28cd7811",
+      "Size": 2137824,
+      "LastWriteTime": 638511363029106498,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025012.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025012.ldb",
+      "Md5": "57affb60d9bb7b16adef4fa635805699",
+      "Size": 2134330,
+      "LastWriteTime": 638511363034743500,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025013.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025013.ldb",
+      "Md5": "84981c1a07ae17c88f191d9e7022b22b",
+      "Size": 2132996,
+      "LastWriteTime": 638511363048406095,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025014.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025014.ldb",
+      "Md5": "fc13e66d432b7a7970797afda3b05d61",
+      "Size": 2126927,
+      "LastWriteTime": 638511363065805002,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025015.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025015.ldb",
+      "Md5": "8bc8a18cfb714bdb7929bd35ba596c04",
+      "Size": 2139456,
+      "LastWriteTime": 638511363072841225,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025016.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025016.ldb",
+      "Md5": "0029e5d6c0db85cd90d1fca99a90b22c",
+      "Size": 2128688,
+      "LastWriteTime": 638511363080359562,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025017.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025017.ldb",
+      "Md5": "54f4a6f7b7d2ddd09e3323be837dfd0f",
+      "Size": 2120186,
+      "LastWriteTime": 638511363087421024,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025018.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025018.ldb",
+      "Md5": "9b04dec628d2a89ca1d8970f79c23dca",
+      "Size": 2133928,
+      "LastWriteTime": 638511363094669568,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025019.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025019.ldb",
+      "Md5": "6084b3b7ef0dcc4fbb0ba29d82dc7c8c",
+      "Size": 2130177,
+      "LastWriteTime": 638511363102375059,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025020.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025020.ldb",
+      "Md5": "e1d948dfd9893aa69631c19e5764ce7d",
+      "Size": 2130720,
+      "LastWriteTime": 638511363110147321,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025021.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025021.ldb",
+      "Md5": "0585dc317df45da319b63474a8804837",
+      "Size": 249257,
+      "LastWriteTime": 638511363111262960,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025022.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025022.ldb",
+      "Md5": "88dabe12131dcdd2db0c50b58b524848",
+      "Size": 2125977,
+      "LastWriteTime": 638511364167206407,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025023.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025023.ldb",
+      "Md5": "b9767958311f6987a261d017a2deb18a",
+      "Size": 2115150,
+      "LastWriteTime": 638511364177944272,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025024.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025024.ldb",
+      "Md5": "e5c1dd403ebd9034b7d00e699715dd80",
+      "Size": 2123233,
+      "LastWriteTime": 638511364647753249,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025025.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025025.ldb",
+      "Md5": "f517fff1addfb74b3cea4c8ecfce9fea",
+      "Size": 2117890,
+      "LastWriteTime": 638511364661384055,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025026.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025026.ldb",
+      "Md5": "0b6d3accd33393e7d952f28558d8f516",
+      "Size": 2115728,
+      "LastWriteTime": 638511364674795774,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025027.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025027.ldb",
+      "Md5": "3b56784f09506189d19e587ae8217207",
+      "Size": 2117558,
+      "LastWriteTime": 638511364689999547,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025028.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025028.ldb",
+      "Md5": "7b70b1c272fffa743c0525f2c7350d68",
+      "Size": 2134421,
+      "LastWriteTime": 638511364711396647,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025029.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025029.ldb",
+      "Md5": "388ca62416210211c531f8ea7bdca7a8",
+      "Size": 2138810,
+      "LastWriteTime": 638511364733443838,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025030.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025030.ldb",
+      "Md5": "d1dc7e39377e25d3b6f191b5751dd7ea",
+      "Size": 2137040,
+      "LastWriteTime": 638511364759013153,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025031.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025031.ldb",
+      "Md5": "c42067e85116d1b8a30ed49d9b10c7e7",
+      "Size": 2136440,
+      "LastWriteTime": 638511364781644724,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025032.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025032.ldb",
+      "Md5": "065aa56a83ab4c6b749fc93ad13dd895",
+      "Size": 2135777,
+      "LastWriteTime": 638511364802548104,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025033.ldb": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\025033.ldb",
+      "Md5": "e99f05ba522eb298f5080edc9714225a",
+      "Size": 2138304,
+      "LastWriteTime": 638511364821707926,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\CURRENT": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\CURRENT",
+      "Md5": "a1304e71fa22328024fe2fda85b762af",
+      "Size": 20,
+      "LastWriteTime": 638511022337743829,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\MANIFEST-023958": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\db\\MANIFEST-023958",
+      "Md5": "c5904b5334662dc4a66aa9be17535229",
+      "Size": 70841,
+      "LastWriteTime": 638511364822055566,
+      "Type": 2
+    },
+    "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\resource_packs": {
+      "Path": "C:\\Users\\sjx20\\AppData\\Roaming\\MinecraftPE_Netease\\minecraftWorlds\\MCGame-ea434d92-ed55-4c63-8cf7-b3191691356c\\resource_packs",
+      "Md5": "",
+      "Size": 0,
+      "LastWriteTime": 638429025359229778,
+      "Type": 3
+    }
+  },
+  "Path": "C:\\MCLDownload\\Game\\sjx20011225@163.com\\MCGame\\生存\\生存_cloud.config",
+  "Result": {
+    "a": true,
+    "b": "",
+    "c": null
+  }
+}
